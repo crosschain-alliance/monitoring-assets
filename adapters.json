@@ -1,0 +1,25 @@
+[
+  {
+    "network": "ethereum",
+    "chain": "sepolia",
+    "yaho": "0xAd3dD87A7b7300e37D80F27B0F91e86B3300e238",
+    "yaru": "0xA30d589F3a39Ebcd82AC103A5Fd20A2781c1C948",
+    "adapters": [
+      "0x0728E0c04F78900106f9E31Aa70A36175d949F62",
+      "0xbd2321610b9dF2B9e79D870ABC2227A81035663a",
+      "0xdA7D9c8C3eBd2F0A790b1AbCFcdA3d309379B4d8"
+    ]
+  },
+  {
+    "network": "gnosis",
+    "chain": "chiado",
+    "yaho": "0xe80CE86F6c51f9f501B6AB7b2f7a7e41633e348f",
+    "yaru": "0xE1dDB34c9a4c7A2ac54464AaFC934eBcb698ab62",
+    "adapters": [
+      "0x5826517b039F87cd7B43476863B94FA67501F46E",
+      "0x30a886053Cb9B85f8a6bB2b9aBADce54d12De3c5",
+      "0xAd3dD87A7b7300e37D80F27B0F91e86B3300e238",
+      "0x08697520af2099cc7ec35d1ba3dbe87d7f55250e"
+    ]
+  }
+]
