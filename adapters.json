@@ -1,13 +1,11 @@
 [
   {
-    "network": "ethereum",
     "chain": "sepolia",
     "yaho": "0x21eAB033C7D2DF6A67AeF6C5Bda9A7F151eB9f52",
     "yaru": "",
     "adapters": []
   },
   {
-    "network": "gnosis",
     "chain": "chiado",
     "yaho": "",
     "yaru": "0xBA9165973963a6E5608f03b9648c34A737E48f68",
@@ -15,5 +13,29 @@
       "0x3F5929bee6A59661D6CcC9c4eB751048009CE11B",
       "0x8A2A7509B98f0f21BEFF82e2520A920DB61fFa9d"
     ]
+  },
+  {
+    "chain": "base",
+    "yaho": "0xfe2bafe5aCA5bF884F8a9148535F11B46f6D1c8f",
+    "yaru": "",
+    "adapters": []
+  },
+  {
+    "chain": "polygon",
+    "yaho": "",
+    "yaru": "0x5ecAEc6E028da6c29516Fc51aAB740a1B1CF9666",
+    "adapters": ["0xf4C84D9ced01534f235078A10E8A44A726c4b73c"]
+  },
+  {
+    "chain": "optimism",
+    "yaho": "",
+    "yaru": "0x30f64a297cc66a873FB603d1e89D5891962C25ba",
+    "adapters": ["0x746dfa0251A31e587E97bBe0c58ED67A343280Df"]
+  },
+  {
+    "chain": "gnosis",
+    "yaho": "",
+    "yaru": "0x427a78310aaB514D8CdcB7A68D049CcF44221eDA",
+    "adapters": ["0x6602dc9b6bd964C2a11BBdA9B2275308D1Bbc14f"]
   }
 ]
